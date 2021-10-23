@@ -1,0 +1,14 @@
+name: TeleportUI
+main: me.humyaijungz.Hum
+author: "HumYaiJunGz"
+version: 1.0.0
+api: ["1.0.9"]
+website: https://github.com/Thanakon9945
+
+ppermissions:
+  use.tpui:
+    default: true
+  use.tpaui:
+    default: true
+    
+  
