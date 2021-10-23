@@ -1,6 +1,9 @@
 # Features 
 Teleport a player to another player's position 
 
+# Download File .jar 
+- [Download](https://cloudburstmc.org/resources/teleportui.754/)
+
 # Commands 
 ```
 - /tpui 
@@ -12,7 +15,8 @@ Teleport a player to another player's position
 - use.tpui 
 - use.tpaui
 ```
-# Images 
-![1](https://github.com/Thanakon9945/TeleportUI/blob/master/images/1.jpg) 
 
-![2](https://github.com/Thanakon9945/TeleportUI/blob/master/images/2.jpg)
+# Images 
+![logo1](https://github.com/Thanakon9945/TeleportUI/blob/master/images/1.jpg) 
+
+![logo2](https://github.com/Thanakon9945/TeleportUI/blob/master/images/2.jpg)
