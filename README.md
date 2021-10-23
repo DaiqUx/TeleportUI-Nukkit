@@ -3,8 +3,9 @@ Teleport a player to another player's position
 
 # Commands 
 ```
-/tpui 
-/tpaui 
+* /tpui 
+* /tpaui
+ pen Form
 ```
 
 # Permission
